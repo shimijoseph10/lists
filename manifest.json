@@ -44,7 +44,7 @@
       "name": "Open Message",
       "short_name": "Messages",
       "description": "Open the app to your messages",
-      "url": "/views",
+      "url": "/views/cards.html",
       "icons": [{ "src": "/assets/images/messages.png", "sizes": "192x192" }]
     },
     {
